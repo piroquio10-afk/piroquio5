@@ -72,11 +72,7 @@ You can see a online deployed version in **https://uno-card-game.herokuapp.com/*
 * [React] - Front end Framework used
 * [Node] - Server side language used
 
-## Authors
 
-* **Pedro Augusto** - *Initial work* - [pedrooaugusto](https://github.com/pedrooaugusto)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
